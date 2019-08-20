@@ -11,7 +11,7 @@
  end
  
  def introduction_with_language_optional(name, language = "Ruby")
-   p 
+   p "Hi, my name is  and I am learning to program in Ember"
 
 
 
