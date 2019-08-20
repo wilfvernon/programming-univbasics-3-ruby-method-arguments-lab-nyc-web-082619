@@ -3,7 +3,12 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
  def introduction(name)
-   p Hi, my name is Dan and I am learning to program in Ember
+   p "Hi, my name is #{name}"
+ end
+ 
+ def introduction_with_language(name, language)
+   p 
+
 
 
 
