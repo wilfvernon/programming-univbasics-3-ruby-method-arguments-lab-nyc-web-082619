@@ -1,13 +1,13 @@
 def introduction(name)
-   p "Hi, my name is #{name}."
+   p "Hi, my name is #{name}.\n"
 end
  
 def introduction_with_language(name, language)
-   p "Hi, my name is #{name} and I am learning to program in #{language}."
+   p "Hi, my name is #{name} and I am learning to program in #{language}.\n"
 end
  
 def introduction_with_language_optional(name, language = "Ruby")
-   p "Hi, my name is #{name} and I am learning to program in #{language}."
+   p "Hi, my name is #{name} and I am learning to program in #{language}.\n"
 end
 
 
